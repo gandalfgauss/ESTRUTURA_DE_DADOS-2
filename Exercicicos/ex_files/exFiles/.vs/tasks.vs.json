@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-ex_4",
+      "appliesTo": "ex_4.cpp",
+      "type": "launch"
+    }
+  ]
+}

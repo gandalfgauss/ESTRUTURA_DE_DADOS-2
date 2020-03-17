@@ -1,0 +1,9 @@
+# ninja log v5
+1	1401	605813054	CMakeFiles/exFiles.dir/exFiles.cpp.obj	7b29773cdbaf25f6
+1419	3354	605813056	exFiles.exe	bbd5d16d0590c8e2
+1	1195	605813164	CMakeFiles/exFiles.dir/ex_1.cpp.obj	6b61e3c82dded2e7
+1196	2530	605813165	exFiles.exe	db23394fe4d1af57
+1	932	605813205	CMakeFiles/exFiles.dir/ex_1.cpp.obj	6b61e3c82dded2e7
+934	2345	605813207	exFiles.exe	db23394fe4d1af57
+1	787	605813484	CMakeFiles/exFiles.dir/ex_1.cpp.obj	6b61e3c82dded2e7
+789	1862	605813485	exFiles.exe	db23394fe4d1af57

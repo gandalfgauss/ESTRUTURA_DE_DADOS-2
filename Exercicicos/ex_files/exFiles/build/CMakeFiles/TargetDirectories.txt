@@ -1,0 +1,3 @@
+C:/Users/pedro/facudade/ESTRUTURA_DE_DADOS-2/Exercicicos/ex_files/exFiles/build/CMakeFiles/exFiles.dir
+C:/Users/pedro/facudade/ESTRUTURA_DE_DADOS-2/Exercicicos/ex_files/exFiles/build/CMakeFiles/edit_cache.dir
+C:/Users/pedro/facudade/ESTRUTURA_DE_DADOS-2/Exercicicos/ex_files/exFiles/build/CMakeFiles/rebuild_cache.dir

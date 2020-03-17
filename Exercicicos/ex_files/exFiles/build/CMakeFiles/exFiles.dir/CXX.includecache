@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pedro/facudade/ESTRUTURA_DE_DADOS-2/Exercicicos/ex_files/exFiles/ex_6.cpp
+iostream
+-
+stdio.h
+-
+
